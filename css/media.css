@@ -1,4 +1,7 @@
 @media (max-width: 1199.98px) {
+    *{
+        zoom: 100%;
+    }
     #services .row .col-4 {
         padding: 0;
     }
